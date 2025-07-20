@@ -45,10 +45,10 @@ public:
 };
 
 int main() {
-#ifndef ONLINE_JUDGE
-freopen("input.txt", "r", stdin);
-freopen("output.txt", "w", stdout);
-#endif
+    #ifndef ONLINE_JUDGE
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    #endif
     DisjointSet ds(7);
     // ds.unionByRank(1, 2);
     // ds.unionByRank(2, 3);
