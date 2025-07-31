@@ -50,5 +50,10 @@ OR
 - Use coderunner extension in vscode
 
 Suggestions:
-1. Before doing Greedy (Step 12), do Graphs (Step 15) and Dynamic Programming (Step 16).
-2. Do Binary Trees (Step 13) and Binary Search Trees (Step 14) together.
+- Step 01 (Basics) -> Step 02 (Sorting)
+
+- Step 06 (LL) -> Step 11 (Heaps)
+
+- Step 07 (Recursion) -> Step 16 (DP) -> Step 15 (Graphs) -> Step 12 (Greedy)
+
+- Step 13 (BT) -> Step 14 (BST)
